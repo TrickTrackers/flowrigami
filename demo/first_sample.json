@@ -1,0 +1,147 @@
+{
+  "version": "1.0",
+  "diagram": "UML",
+  "indicators": [],
+  "links": [
+    {
+      "from": "A0ULnFxoMkD5K66fDsPNg",
+      "to": "FhhvFzTzbH09aJsADGgQ0",
+      "points": [
+        {
+          "x": 510,
+          "y": 310
+        },
+        {
+          "x": 660,
+          "y": 350
+        }
+      ]
+    },
+    {
+      "from": "A0ULnFxoMkD5K66fDsPNg",
+      "to": "sScZ5WXjlcpkiAo3-9mah",
+      "points": [
+        {
+          "x": 510,
+          "y": 250
+        },
+        {
+          "x": 660,
+          "y": 210
+        }
+      ]
+    },
+    {
+      "from": "FhhvFzTzbH09aJsADGgQ0",
+      "to": "tTNdtqhkuTDuiQL-R9xl0",
+      "points": [
+        {
+          "x": 780,
+          "y": 350
+        },
+        {
+          "x": 930,
+          "y": 310
+        }
+      ]
+    },
+    {
+      "from": "sScZ5WXjlcpkiAo3-9mah",
+      "to": "tTNdtqhkuTDuiQL-R9xl0",
+      "points": [
+        {
+          "x": 780,
+          "y": 210
+        },
+        {
+          "x": 930,
+          "y": 250
+        }
+      ]
+    },
+    {
+      "from": "QbyyBZniRa3fsNaaYcLgf",
+      "to": "A0ULnFxoMkD5K66fDsPNg",
+      "points": [
+        {
+          "x": 400,
+          "y": 280
+        },
+        {
+          "x": 480,
+          "y": 280
+        }
+      ]
+    },
+    {
+      "from": "tTNdtqhkuTDuiQL-R9xl0",
+      "to": "otm_6fQh0L_Bj2tz95aAp",
+      "points": [
+        {
+          "x": 960,
+          "y": 280
+        },
+        {
+          "x": 1040,
+          "y": 280
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "StartNode",
+      "params": {
+        "id": "QbyyBZniRa3fsNaaYcLgf",
+        "label": "",
+        "x": 380,
+        "y": 280
+      }
+    },
+    {
+      "name": "DecisionNode",
+      "params": {
+        "id": "A0ULnFxoMkD5K66fDsPNg",
+        "label": "",
+        "x": 510,
+        "y": 280
+      }
+    },
+    {
+      "name": "DecisionNode",
+      "params": {
+        "id": "tTNdtqhkuTDuiQL-R9xl0",
+        "label": "",
+        "x": 930,
+        "y": 280
+      }
+    },
+    {
+      "name": "ActivityNode",
+      "params": {
+        "id": "sScZ5WXjlcpkiAo3-9mah",
+        "label": "",
+        "x": 720,
+        "y": 210
+      }
+    },
+    {
+      "name": "ActivityNode",
+      "params": {
+        "id": "FhhvFzTzbH09aJsADGgQ0",
+        "label": "",
+        "x": 720,
+        "y": 350
+      }
+    },
+    {
+      "name": "EndNode",
+      "params": {
+        "id": "otm_6fQh0L_Bj2tz95aAp",
+        "label": "",
+        "x": 1060,
+        "y": 280
+      }
+    }
+  ]
+}
